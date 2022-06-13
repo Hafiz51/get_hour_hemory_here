@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://hafiz51.github.io/get_hour_hemory_here/';
+$config['base_url'] ='https://hafiz51.github.io/get_hour_hemory_here/';
 
 /*
 |--------------------------------------------------------------------------
